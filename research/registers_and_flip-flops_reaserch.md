@@ -2,9 +2,9 @@
 
  flip_flops and registers are the foundational building blocks of modern digital electronics .
 
- ** Flip-flops: ** is made of Latches  with two states and is capable of storing one bit of data .
+ **Flip-flops:** is made of Latches  with two states and is capable of storing one bit of data .
 
- ** Register : ** is collection of flip-flops workind to gether to store multiple bits of data and move them from one location to another . 
+ **Register :** is collection of flip-flops workind to gether to store multiple bits of data and move them from one location to another . 
 
 
 # Technical Foundations 
@@ -13,7 +13,7 @@
 
 flip-flops are synchronous bistable devices (set and reset) , means they change their outputs at specific intervals determined by a clock signals .
 
-** types of flip-flops ** 
+**types of flip-flops** 
 
  * SR flip-flops 
  * D flip-flops 
@@ -25,7 +25,7 @@ flip-flops are synchronous bistable devices (set and reset) , means they change 
 
  registers is electronic device made of combinational of many flip-flops with to main functions : Data storage and Data movement 
 
- ** types of registers ** 
+ **types of registers** 
 
  * serial in, serial out (right/left shifters)
  * serial in, parallel out 
